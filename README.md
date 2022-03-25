@@ -4,6 +4,7 @@ second commit
 feature commit
 feature 2ndcommit
 
+Adding conflict
 1. Query to fetch the data and Mutation to alter the data.
 
 2. For fetching the data we use Graph QL Query
